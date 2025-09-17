@@ -24,4 +24,4 @@ From there, I had the arduino spit out the raw values of the potentiometers (0 t
 
 17th September 2025:
 
-![Damaged Bridge PCB](damaged-bridge-pcb.png)
+![Damaged Bridge PCB](attachments/damaged-bridge-pcb.png)
