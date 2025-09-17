@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -171,12 +171,12 @@
   },
   "active": "f20b4aafb93ccf9c",
   "lastOpenFiles": [
-    "attachments/bridge-pcb-before-connected.png.png",
-    "attachments/bridge-pcb-before.png.png",
+    "attachments/wheel-base-before.png",
     "attachments/pedals-before.png",
-    "attachments/wheel-base-before.png.png",
+    "attachments/damaged-bridge-pcb.png",
+    "attachments/bridge-pcb-before.png",
+    "attachments/bridge-pcb-before-connected.png",
     "README.md",
-    "attachments/damaged-bridge-pcb.png.png",
     "attachments/attachments/Old.md",
     "attachments/attachments",
     "attachments.md",
